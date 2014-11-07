@@ -1,0 +1,9 @@
+[submodule "angular/antilia"]
+	path = angular/antilia
+	url = git@github.com:duesenklipper/antilia-bits.git
+[submodule "angular/activey"]
+	path = angular/activey
+	url = git@github.com:duesenklipper/wicket-angular-js.git
+[submodule "angular/ketola"]
+	path = angular/ketola
+	url = git@github.com:duesenklipper/wicket-angular.git
